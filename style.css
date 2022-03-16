@@ -1,0 +1,17 @@
+body {
+    background-image: url(images/pexels-ella-olsson-1640770.jpg);
+}
+.search-box {
+    position: relative;
+}
+.search-btn {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+
+}
+#youtube {
+    color: black;
+   text-decoration: none;
+}
